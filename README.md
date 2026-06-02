@@ -1,24 +1,50 @@
-# Olá, eu sou Carlos Bonfatti! 👋
+# Hi, I'm Carlos Bonfatti 👋
 
-## 🚀 Sobre mim
-Sou um Especialista em Qualidade de Software com foco em entregar produtos de alta qualidade por meio de automação eficaz. Minha carreira começou automatizando testes mobile em uma das maiores empresas de software do Brasil e do mundo, e sou formado em Desenvolvimento Mobile.
+## Engineering Manager | GenAI, ML, Backend & API Systems
 
-Tenho uma vasta experiência em automação de testes para mobile, web, API e performance, atuando em grandes empresas de setores como bancário, e-commerce e televisão. Atualmente, estou expandindo minhas habilidades com um MBA em Data Science & Artificial Intelligence, onde estou desenvolvendo conhecimento avançado em ciência de dados, aprendizado de máquina e inteligência artificial para transformar e otimizar processos de qualidade de software.
+I lead engineering teams building AI-powered financial products in production — from ML pipelines and data platforms to LLM-based decision systems and GenAI document automation.
 
-## 📈 Sobre o Projeto
-No meu portfólio, estou diversificando as tecnologias, explorando frameworks de automação para web, API, mobile e performance, sempre aplicando as melhores práticas e utilizando tecnologias emergentes.
+Currently managing two teams:
 
-## 🛠 Habilidades
-- [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-- [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](https://www.java.com/)
-- [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
-- [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-- [![Appium](https://img.shields.io/badge/-Appium-0089D7?style=flat-square&logo=appium&logoColor=white)](http://appium.io/)
-- [![REST-assured](https://img.shields.io/badge/-REST--assured-3498DB?style=flat-square)](https://rest-assured.io/)
-- [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-- [![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
-- [![K6](https://img.shields.io/badge/-K6-4A4A4A?style=flat-square&logo=k6&logoColor=white)](https://k6.io/)
-- [![Jmeter](https://img.shields.io/badge/-Jmeter-D91212?style=flat-square&logo=apache-jmeter&logoColor=white)](https://jmeter.apache.org/)
+- **ML & Data team** — full ML lifecycle from raw ingestion (Kafka, Databricks) to golden record, powering credit analysis and fraud detection models on AWS
+- **Backend & API team** — Java services and API integrations connecting AI models to real products, including RAG-based LLM decision systems (LangGraph, embeddings) and GenAI document parsing pipelines
 
-## 🔒 Observação
-Por motivos de segurança, meus projetos são mantidos em caráter privado. Se você estiver interessado em visualizá-los ou discutir mais sobre meu trabalho, fique à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/carlos-b-055043a4/)!
+---
+
+## 🛠 Tech stack
+
+**AI & ML**
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![OpenAI](https://img.shields.io/badge/-GenAI%2FLLM-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org/)
+
+**Backend & Data**
+
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![Camunda](https://img.shields.io/badge/-Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)](https://camunda.com/)
+
+**Infrastructure**
+
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
+---
+
+## 📂 Projects
+
+> Most of my current work is production-grade and private.
+> I'll be sharing experiments and side projects on GenAI, RAG architectures, and ML systems shortly.
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-b-055043a4/)
